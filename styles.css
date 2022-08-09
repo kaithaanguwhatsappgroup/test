@@ -34,7 +34,7 @@ html{
         padding: 30px;
         border-radius: 30px;
         border: 2px solid rgb(180, 150, 52);
-        margin: 30px 30px 15px 30px;
+        margin: 30px 15px 30px 15px;
     }
     .box-2{
         width: 600px;
@@ -42,7 +42,7 @@ html{
         padding: 30px;
         border-radius: 30px;
         border: 2px solid rgb(52, 93, 180);
-        margin: 30px 30px 15px 30px;
+        margin: 30px 15px 30px 15px;
     }
 
     .b1-cont{
@@ -122,8 +122,10 @@ html{
         }
         .box-1{
             padding: 0 20px 20px 20px;
+            margin: 30px 10px 10px 10px;
         }
         .box-2{
             padding: 0 20px 20px 20px;
+            margin: 10px 10px 10px 10px;
         }
       }
